@@ -1,0 +1,1 @@
+import{a as n}from"./chunk-CWGDLDJH.js";import{d as e,l as p}from"./chunk-FA5JOZOE.js";import{X as t}from"./chunk-BXTUWIBR.js";var $=(o,r=t(e))=>r.get(`${n.urlAPI}${o}`),f=o=>{let r=t(e),m=t(p),{pk:a}=m.snapshot.params;return r.get(`${n.urlAPI}api/${o}/${a}`)};export{$ as a,f as b};
